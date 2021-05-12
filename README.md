@@ -1,4 +1,4 @@
-# DeepNeuralNetworkProject
+# Deep Neural Network Project
 <b> Objective: </b>  <br>
 The objective of the project is to learn how to implement a simple image classification pipeline based on a deep neural network.  <br>
 
